@@ -10,6 +10,10 @@ Welcome to the server-side of our Upload AI project! This is where all the heavy
 - **Zod:** For robust validation, making sure our data is in good shape.
 - **OpenAI's GPT:** Powers the AI transcriptions and interactions.
 
+## Frontend Repo
+
+<a href="https://github.com/diogoazevedoo/upload-ai-web">Repo</a>
+
 ## Getting Started
 
 To get this backend up and running:
